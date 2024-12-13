@@ -1,0 +1,6 @@
+@Project36_CrayzMusıcıans_HostAddress = http://localhost:5013
+
+GET {{Project36_CrayzMusıcıans_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
