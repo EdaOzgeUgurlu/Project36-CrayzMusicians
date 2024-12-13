@@ -23,7 +23,7 @@ Bir müzisyeni ID'sine göre getirir.
 - ✅ 200 OK: Müzisyen verisi.
 - ❌ 404 Bulunamadı: Belirtilen ID'ye sahip bir müzisyen yoksa.
 
-### **GET** `/api/musicians/musicians/{musiciansName}` 🧑‍🎤
+### **GET** `/api/musicians/musicians/{musiciansName}`
 Müzisyenleri isimlerine göre arar (büyük-küçük harf duyarsız).
 
 **Parametreler:**
