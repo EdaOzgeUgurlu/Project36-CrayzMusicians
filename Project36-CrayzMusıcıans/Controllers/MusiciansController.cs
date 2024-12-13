@@ -10,7 +10,6 @@ namespace Project36_CrazyMusicians.Controllers
     [ApiController]
     public class MusiciansController : ControllerBase
     {
-
         private static List<Musician> _musicians = new List<Musician>()
         {
             new Musician{ID = 1, Name = "Ahmet Çalgı", Profession = "Ünlü Çalgı Çalar", FunFeature = "Her zaman yanlış nota çalar, ama çok eğlenceli."},
