@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-
 namespace Project36_CrayzMusıcıans.Controllers
 {
     [ApiController]
