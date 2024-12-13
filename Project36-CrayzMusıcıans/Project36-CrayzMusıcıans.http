@@ -2,5 +2,4 @@
 
 GET {{Project36_CrayzMusıcıans_HostAddress}}/weatherforecast/
 Accept: application/json
-
 ###
